@@ -1,0 +1,4502 @@
+[
+	{
+		"final velocity (m/s)": 2.6,
+		"final/ref (%) ": -0.675,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 34,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 1.02,
+		"final/ref (%) ": -0.745,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 38,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 0.24,
+		"final/ref (%) ": -0.88,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 54,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 4.98,
+		"final/ref (%) ": -0.17,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 48,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 8.88,
+		"final/ref (%) ": -0.112,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 40,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.1,
+		"final/ref (%) ": -0.95,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 14,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 11.19,
+		"final/ref (%) ": 0.119,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.85,
+		"final/ref (%) ": -0.6916666667,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.8,
+		"final/ref (%) ": -0.55,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 12,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.74,
+		"final/ref (%) ": -0.21,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 20,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 8.45,
+		"final/ref (%) ": 0.05625,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 4.18,
+		"final/ref (%) ": 0.045,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 40,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 3.65,
+		"final/ref (%) ": -0.3916666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 30,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.94,
+		"final/ref (%) ": -0.765,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 2.29,
+		"final/ref (%) ": -0.4275,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 30,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 3.59,
+		"final/ref (%) ": -0.7008333333,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 38,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.95,
+		"final/ref (%) ": -0.805,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 54,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.82,
+		"final/ref (%) ": -0.545,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 38,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.69,
+		"final/ref (%) ": -0.41375,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.63,
+		"final/ref (%) ": -0.5925,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 12,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.72,
+		"final/ref (%) ": -0.14,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 6.11,
+		"final/ref (%) ": 0.5275,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 14,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 7.23,
+		"final/ref (%) ": -0.09625,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.03,
+		"final/ref (%) ": -0.9141666667,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 32,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 4.09,
+		"final/ref (%) ": -0.48875,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 30,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.36,
+		"final/ref (%) ": -0.705,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.94,
+		"final/ref (%) ": -0.806,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.8,
+		"final/ref (%) ": -0.1,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 18,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.06,
+		"final/ref (%) ": -0.994,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 2.58,
+		"final/ref (%) ": -0.785,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 36,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.81,
+		"final/ref (%) ": -0.595,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 46,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 11.15,
+		"final/ref (%) ": 0.115,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 11.28,
+		"final/ref (%) ": 0.41,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 3.34,
+		"final/ref (%) ": -0.5825,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 48,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.44,
+		"final/ref (%) ": -0.82,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 3.12,
+		"final/ref (%) ": -0.688,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.97,
+		"final/ref (%) ": 0.1616666667,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.27,
+		"final/ref (%) ": -0.773,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.61,
+		"final/ref (%) ": -0.92375,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 12,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 4.46,
+		"final/ref (%) ": 0.115,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 12.17,
+		"final/ref (%) ": 0.0141666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 38,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 3.63,
+		"final/ref (%) ": -0.0925,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 44,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.62,
+		"final/ref (%) ": -0.845,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 36,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 4.44,
+		"final/ref (%) ": -0.556,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 12,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 2.57,
+		"final/ref (%) ": -0.5716666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 7.58,
+		"final/ref (%) ": -0.242,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 6.65,
+		"final/ref (%) ": -0.16875,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.89,
+		"final/ref (%) ": -0.055,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.64,
+		"final/ref (%) ": -0.06,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.11,
+		"final/ref (%) ": 0.055,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.99,
+		"final/ref (%) ": -0.62625,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 30,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.75,
+		"final/ref (%) ": -0.825,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.18,
+		"final/ref (%) ": 0.09,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 20,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.18,
+		"final/ref (%) ": -0.882,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 36,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.52,
+		"final/ref (%) ": -0.24,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 44,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 9.82,
+		"final/ref (%) ": 0.2275,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 46,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.8,
+		"final/ref (%) ": -0.8,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.63,
+		"final/ref (%) ": -0.685,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.26,
+		"final/ref (%) ": -0.895,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 8.59,
+		"final/ref (%) ": 0.07375,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.65,
+		"final/ref (%) ": -0.3916666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.47,
+		"final/ref (%) ": -0.56625,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 60,
+		"year": 2012
+	},
+	{
+		"final velocity (m/s)": 7.05,
+		"final/ref (%) ": -0.4125,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 25,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 7.68,
+		"final/ref (%) ": 0.28,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 44,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 11.31,
+		"final/ref (%) ": 0.131,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.27,
+		"final/ref (%) ": -0.1825,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.09,
+		"final/ref (%) ": -0.691,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 10,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 3.52,
+		"final/ref (%) ": -0.4133333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 34,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.46,
+		"final/ref (%) ": -0.77,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 2.4,
+		"final/ref (%) ": -0.8,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 28,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 2.16,
+		"final/ref (%) ": -0.46,
+		"group": "ESE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.92,
+		"final/ref (%) ": 0.23,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.7,
+		"final/ref (%) ": -0.7166666667,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 8.74,
+		"final/ref (%) ": 0.0925,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 26,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.33,
+		"final/ref (%) ": -0.8058333333,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 26,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 4.62,
+		"final/ref (%) ": -0.23,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 12,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 5.56,
+		"final/ref (%) ": -0.444,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 34,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.7,
+		"final/ref (%) ": -0.15,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 5.61,
+		"final/ref (%) ": -0.5325,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.27,
+		"final/ref (%) ": -0.9325,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.01,
+		"final/ref (%) ": -0.4975,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.55,
+		"final/ref (%) ": -0.6125,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.47,
+		"final/ref (%) ": -0.8825,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 5.53,
+		"final/ref (%) ": -0.30875,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 10,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.17,
+		"final/ref (%) ": -0.9575,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 9.07,
+		"final/ref (%) ": -0.093,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 4.39,
+		"final/ref (%) ": 0.0975,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 20,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 2.13,
+		"final/ref (%) ": -0.8225,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 4.52,
+		"final/ref (%) ": -0.2466666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 25,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.16,
+		"final/ref (%) ": 0.08,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.73,
+		"final/ref (%) ": -0.927,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 32,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.68,
+		"final/ref (%) ": -0.66,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.21,
+		"final/ref (%) ": -0.895,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.99,
+		"final/ref (%) ": -0.6683333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 36,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.58,
+		"final/ref (%) ": -0.71,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 20,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 3,
+		"final/ref (%) ": -0.625,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.1,
+		"final/ref (%) ": -0.95,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 40,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 11.55,
+		"final/ref (%) ": 0.155,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 6.16,
+		"final/ref (%) ": -0.4866666667,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 12.03,
+		"final/ref (%) ": 0.0025,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.07,
+		"final/ref (%) ": -0.465,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 2.33,
+		"final/ref (%) ": -0.70875,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 12,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.54,
+		"final/ref (%) ": -0.5575,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.41,
+		"final/ref (%) ": -0.295,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 13.67,
+		"final/ref (%) ": 0.70875,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.96,
+		"final/ref (%) ": -0.13,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 42,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 4.62,
+		"final/ref (%) ": 0.155,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 5.24,
+		"final/ref (%) ": -0.5633333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 4.47,
+		"final/ref (%) ": -0.44125,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 11.48,
+		"final/ref (%) ": 0.148,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 35,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.23,
+		"final/ref (%) ": -0.6925,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 7.9,
+		"final/ref (%) ": 0.3166666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 7.03,
+		"final/ref (%) ": -0.12125,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.12,
+		"final/ref (%) ": -0.6466666667,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 36,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.69,
+		"final/ref (%) ": -0.885,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 34,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 0.94,
+		"final/ref (%) ": -0.906,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.16,
+		"final/ref (%) ": -0.96,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 10,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.43,
+		"final/ref (%) ": -0.285,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 42,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 4.77,
+		"final/ref (%) ": -0.205,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 25,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 7.99,
+		"final/ref (%) ": -0.201,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 32,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.35,
+		"final/ref (%) ": -0.825,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 26,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 6.19,
+		"final/ref (%) ": -0.4841666667,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 35,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 4.14,
+		"final/ref (%) ": -0.586,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 25,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 10.75,
+		"final/ref (%) ": -0.1041666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 42,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.32,
+		"final/ref (%) ": -0.668,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 28,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 9.1,
+		"final/ref (%) ": -0.2416666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 40,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 11.17,
+		"final/ref (%) ": 0.117,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.4,
+		"final/ref (%) ": -0.65,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 12,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 0.61,
+		"final/ref (%) ": -0.9491666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 6.2,
+		"final/ref (%) ": -0.4833333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.39,
+		"final/ref (%) ": -0.861,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 32,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 2.95,
+		"final/ref (%) ": -0.7541666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 18,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.67,
+		"final/ref (%) ": -0.433,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 60,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 7.43,
+		"final/ref (%) ": -0.3808333333,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 12.2,
+		"final/ref (%) ": 0.0166666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 26,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.96,
+		"final/ref (%) ": -0.704,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.18,
+		"final/ref (%) ": 0.59,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 26,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 7.45,
+		"final/ref (%) ": 0.2416666667,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 54,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 1.26,
+		"final/ref (%) ": -0.895,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.39,
+		"final/ref (%) ": -0.9675,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 42,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 9.41,
+		"final/ref (%) ": -0.2158333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.95,
+		"final/ref (%) ": 0.4875,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 4.18,
+		"final/ref (%) ": -0.4775,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 12,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.55,
+		"final/ref (%) ": -0.225,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.89,
+		"final/ref (%) ": -0.5275,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 42,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 2.12,
+		"final/ref (%) ": 0.06,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 40,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 0.76,
+		"final/ref (%) ": -0.62,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.1,
+		"final/ref (%) ": -0.45,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 50,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 4.8,
+		"final/ref (%) ": -0.52,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.87,
+		"final/ref (%) ": -0.565,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 30,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.15,
+		"final/ref (%) ": -0.7125,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 54,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 3.57,
+		"final/ref (%) ": -0.55375,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 14,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.97,
+		"final/ref (%) ": -0.6716666667,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 3.87,
+		"final/ref (%) ": -0.6775,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 20,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 11.36,
+		"final/ref (%) ": 0.136,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.28,
+		"final/ref (%) ": -0.12,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 11.35,
+		"final/ref (%) ": -0.0541666667,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 11.45,
+		"final/ref (%) ": -0.0458333333,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 2.87,
+		"final/ref (%) ": -0.5216666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 7.04,
+		"final/ref (%) ": -0.12,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.72,
+		"final/ref (%) ": -0.7133333333,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.74,
+		"final/ref (%) ": -0.13,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 14,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 13.25,
+		"final/ref (%) ": 0.1041666667,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 14,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.12,
+		"final/ref (%) ": -0.94,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 34,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.04,
+		"final/ref (%) ": -0.74,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 28,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 12.7,
+		"final/ref (%) ": 0.5875,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 36,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.32,
+		"final/ref (%) ": -0.67,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 12,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 3.78,
+		"final/ref (%) ": -0.37,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 26,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 4.75,
+		"final/ref (%) ": -0.40625,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 2.73,
+		"final/ref (%) ": 0.365,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.94,
+		"final/ref (%) ": -0.906,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 2.32,
+		"final/ref (%) ": -0.6133333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 30,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.94,
+		"final/ref (%) ": -0.1766666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.78,
+		"final/ref (%) ": -0.7775,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.64,
+		"final/ref (%) ": -0.34,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.32,
+		"final/ref (%) ": -0.96,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 7.5,
+		"final/ref (%) ": -0.25,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 34,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 2.25,
+		"final/ref (%) ": -0.71875,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.03,
+		"final/ref (%) ": -0.485,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 30,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.94,
+		"final/ref (%) ": -0.406,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 12,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.61,
+		"final/ref (%) ": -0.195,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 35,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 2.3,
+		"final/ref (%) ": -0.7125,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 26,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 11.98,
+		"final/ref (%) ": 0.198,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 1.3,
+		"final/ref (%) ": -0.675,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 54,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 8.53,
+		"final/ref (%) ": 0.06625,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.4,
+		"final/ref (%) ": -0.65,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.33,
+		"final/ref (%) ": -0.45875,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.97,
+		"final/ref (%) ": -0.015,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 12.8,
+		"final/ref (%) ": 0.6,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 30,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 1.14,
+		"final/ref (%) ": -0.43,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.29,
+		"final/ref (%) ": -0.471,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 42,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.42,
+		"final/ref (%) ": -0.79,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.68,
+		"final/ref (%) ": -0.79,
+		"group": "ESE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 19.69,
+		"final/ref (%) ": 0.6408333333,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 0.13,
+		"final/ref (%) ": -0.9675,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.95,
+		"final/ref (%) ": -0.525,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 4.97,
+		"final/ref (%) ": -0.503,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.22,
+		"final/ref (%) ": -0.89,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 0.21,
+		"final/ref (%) ": -0.895,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 20,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 6.58,
+		"final/ref (%) ": -0.4516666667,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.34,
+		"final/ref (%) ": -0.83,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 34,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 13.09,
+		"final/ref (%) ": 0.0908333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.4,
+		"final/ref (%) ": -0.55,
+		"group": "ESE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.21,
+		"final/ref (%) ": -0.22375,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 16,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.77,
+		"final/ref (%) ": -0.77875,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.77,
+		"final/ref (%) ": -0.90375,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 10,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 5.32,
+		"final/ref (%) ": -0.335,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 17.15,
+		"final/ref (%) ": 0.4291666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 30,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.67,
+		"final/ref (%) ": -0.533,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.21,
+		"final/ref (%) ": -0.895,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 14,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.24,
+		"final/ref (%) ": -0.576,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 44,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 6.37,
+		"final/ref (%) ": 0.0616666667,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 1.03,
+		"final/ref (%) ": -0.485,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.69,
+		"final/ref (%) ": 0.4225,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.67,
+		"final/ref (%) ": -0.8608333333,
+		"group": "ESE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.38,
+		"final/ref (%) ": -0.2025,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 36,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.62,
+		"final/ref (%) ": -0.938,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 3.36,
+		"final/ref (%) ": -0.16,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 40,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 10.28,
+		"final/ref (%) ": -0.1433333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.81,
+		"final/ref (%) ": -0.9325,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 12.08,
+		"final/ref (%) ": 0.0066666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 12,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 3.21,
+		"final/ref (%) ": -0.1975,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 28,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.96,
+		"final/ref (%) ": -0.8366666667,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.03,
+		"final/ref (%) ": 0.0075,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 35,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 3.34,
+		"final/ref (%) ": -0.4433333333,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 20,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.15,
+		"final/ref (%) ": -0.7125,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 9.35,
+		"final/ref (%) ": 0.16875,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 0.79,
+		"final/ref (%) ": -0.8683333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 24,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.04,
+		"final/ref (%) ": -0.495,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 30,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 2.62,
+		"final/ref (%) ": -0.5633333333,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.04,
+		"final/ref (%) ": 0.01,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 14,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.26,
+		"final/ref (%) ": -0.935,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 28,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.13,
+		"final/ref (%) ": -0.645,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 50,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.99,
+		"final/ref (%) ": -0.1683333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 44,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.05,
+		"final/ref (%) ": -0.6625,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 22,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 2.15,
+		"final/ref (%) ": -0.4625,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 40,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.67,
+		"final/ref (%) ": -0.5825,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 25,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 3.2,
+		"final/ref (%) ": -0.2,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 40,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 6.5,
+		"final/ref (%) ": -0.1875,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.84,
+		"final/ref (%) ": -0.77,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 54,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 6.68,
+		"final/ref (%) ": -0.332,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 7.6,
+		"final/ref (%) ": -0.24,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 60,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.02,
+		"final/ref (%) ": -0.745,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 3.09,
+		"final/ref (%) ": -0.61375,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.39,
+		"final/ref (%) ": -0.82625,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 18,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 14.14,
+		"final/ref (%) ": 0.1783333333,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.31,
+		"final/ref (%) ": -0.845,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 26,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 1.97,
+		"final/ref (%) ": -0.5075,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 6.82,
+		"final/ref (%) ": -0.4316666667,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 18,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 2.57,
+		"final/ref (%) ": -0.67875,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.12,
+		"final/ref (%) ": -0.22,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 14,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 0.26,
+		"final/ref (%) ": -0.9566666667,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 18,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 2.67,
+		"final/ref (%) ": -0.66625,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 26,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 3.8,
+		"final/ref (%) ": -0.62,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 2.76,
+		"final/ref (%) ": -0.655,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 3.01,
+		"final/ref (%) ": -0.62375,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 40,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 4,
+		"final/ref (%) ": -0.5,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 6.24,
+		"final/ref (%) ": -0.22,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.29,
+		"final/ref (%) ": -0.6775,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 40,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 6.15,
+		"final/ref (%) ": -0.23125,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.97,
+		"final/ref (%) ": -0.8383333333,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 28,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.17,
+		"final/ref (%) ": -0.9716666667,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.26,
+		"final/ref (%) ": -0.435,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 24,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 2.6,
+		"final/ref (%) ": -0.5666666667,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 24,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 4.53,
+		"final/ref (%) ": -0.6225,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 15,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.82,
+		"final/ref (%) ": -0.318,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.02,
+		"final/ref (%) ": -0.8725,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.75,
+		"final/ref (%) ": -0.90625,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 32,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.23,
+		"final/ref (%) ": -0.877,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.84,
+		"final/ref (%) ": -0.79,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 8,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 5.88,
+		"final/ref (%) ": 0.47,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.27,
+		"final/ref (%) ": -0.84125,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 18,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 7.91,
+		"final/ref (%) ": -0.209,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 2.49,
+		"final/ref (%) ": -0.68875,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 20,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.72,
+		"final/ref (%) ": -0.64,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.89,
+		"final/ref (%) ": -0.811,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 2.67,
+		"final/ref (%) ": -0.7775,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 42,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 7.72,
+		"final/ref (%) ": -0.228,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 6.72,
+		"final/ref (%) ": -0.16,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 48,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.33,
+		"final/ref (%) ": -0.1675,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 48,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.65,
+		"final/ref (%) ": -0.54375,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 32,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 10.78,
+		"final/ref (%) ": 0.078,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.71,
+		"final/ref (%) ": -0.5483333333,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.09,
+		"final/ref (%) ": -0.891,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.2,
+		"final/ref (%) ": -0.975,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 26,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 5.77,
+		"final/ref (%) ": -0.0383333333,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 20,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 2.43,
+		"final/ref (%) ": -0.757,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 6.75,
+		"final/ref (%) ": -0.325,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.47,
+		"final/ref (%) ": -0.9608333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 7.95,
+		"final/ref (%) ": -0.00625,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.64,
+		"final/ref (%) ": -0.18,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 6.52,
+		"final/ref (%) ": -0.185,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 36,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.69,
+		"final/ref (%) ": -0.931,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 7.53,
+		"final/ref (%) ": -0.247,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 30,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 3.03,
+		"final/ref (%) ": -0.7475,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 8.02,
+		"final/ref (%) ": -0.3316666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 32,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 24.58,
+		"final/ref (%) ": 1.0483333333,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 30,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 12.18,
+		"final/ref (%) ": 0.015,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 17.13,
+		"final/ref (%) ": 0.4275,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.32,
+		"final/ref (%) ": -0.84,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 46,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.25,
+		"final/ref (%) ": -0.775,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.25,
+		"final/ref (%) ": -0.6875,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.03,
+		"final/ref (%) ": -0.485,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 15,
+		"final/ref (%) ": 0.25,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 42,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.55,
+		"final/ref (%) ": -0.225,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 8.61,
+		"final/ref (%) ": -0.2825,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.5,
+		"final/ref (%) ": -0.375,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.49,
+		"final/ref (%) ": -0.81375,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 60,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 1.05,
+		"final/ref (%) ": -0.86875,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.9,
+		"final/ref (%) ": -0.025,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 60,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.77,
+		"final/ref (%) ": -0.705,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 26,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.15,
+		"final/ref (%) ": -0.975,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 14.64,
+		"final/ref (%) ": 0.464,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 24,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.78,
+		"final/ref (%) ": -0.11,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 8.24,
+		"final/ref (%) ": -0.3133333333,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 30,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 7.3,
+		"final/ref (%) ": -0.0875,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 44,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.92,
+		"final/ref (%) ": -0.04,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 7.16,
+		"final/ref (%) ": -0.284,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 32,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 4.24,
+		"final/ref (%) ": -0.47,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 4.26,
+		"final/ref (%) ": 0.065,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.24,
+		"final/ref (%) ": -0.38,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.29,
+		"final/ref (%) ": -0.855,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 14,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 3.96,
+		"final/ref (%) ": -0.34,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 7.75,
+		"final/ref (%) ": -0.3541666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 40,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.23,
+		"final/ref (%) ": -0.977,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 18,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.73,
+		"final/ref (%) ": -0.78375,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.67,
+		"final/ref (%) ": -0.66625,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 32,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 14.88,
+		"final/ref (%) ": 0.24,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 40,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.15,
+		"final/ref (%) ": -0.1416666667,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 60,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 6.44,
+		"final/ref (%) ": 0.0733333333,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 8.82,
+		"final/ref (%) ": -0.118,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 40,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.07,
+		"final/ref (%) ": -0.465,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 20,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 3.96,
+		"final/ref (%) ": -0.67,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 15,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 6.83,
+		"final/ref (%) ": 0.1383333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 42,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1,
+		"final/ref (%) ": -0.5,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 11.95,
+		"final/ref (%) ": 0.195,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 28,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.93,
+		"final/ref (%) ": -0.88375,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 2.26,
+		"final/ref (%) ": -0.435,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.19,
+		"final/ref (%) ": -0.8016666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 54,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.84,
+		"final/ref (%) ": -0.86,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 5.14,
+		"final/ref (%) ": -0.1433333333,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 34,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 8.02,
+		"final/ref (%) ": -0.198,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 36,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.8,
+		"final/ref (%) ": -0.8666666667,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 30,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.67,
+		"final/ref (%) ": -0.8883333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 60,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 6.77,
+		"final/ref (%) ": -0.4358333333,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 18,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 4.66,
+		"final/ref (%) ": -0.2233333333,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 3.4,
+		"final/ref (%) ": -0.15,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 42,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.15,
+		"final/ref (%) ": -0.925,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 60,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 2.19,
+		"final/ref (%) ": -0.72625,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 60,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 4.49,
+		"final/ref (%) ": -0.6258333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 28,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 0.56,
+		"final/ref (%) ": -0.72,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 28,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 2.78,
+		"final/ref (%) ": -0.305,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 30,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 7.93,
+		"final/ref (%) ": -0.00875,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.01,
+		"final/ref (%) ": 0.0025,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 4.5,
+		"final/ref (%) ": -0.4375,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 32,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.33,
+		"final/ref (%) ": -0.835,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 20,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 0.18,
+		"final/ref (%) ": -0.91,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 18,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.04,
+		"final/ref (%) ": -0.48,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 16,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.49,
+		"final/ref (%) ": -0.751,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 60,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.02,
+		"final/ref (%) ": -0.8725,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 36,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.44,
+		"final/ref (%) ": -0.7966666667,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.15,
+		"final/ref (%) ": -0.9041666667,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 28,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 3.75,
+		"final/ref (%) ": -0.375,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 42,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 14.36,
+		"final/ref (%) ": 0.1966666667,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 9.32,
+		"final/ref (%) ": -0.2233333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 36,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.15,
+		"final/ref (%) ": -0.8083333333,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 50,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 8.23,
+		"final/ref (%) ": -0.3141666667,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 30,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 2.88,
+		"final/ref (%) ": -0.52,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 2.9,
+		"final/ref (%) ": -0.71,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 30,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.1,
+		"final/ref (%) ": -0.475,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 3.92,
+		"final/ref (%) ": -0.608,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 8.1,
+		"final/ref (%) ": 0.0125,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.32,
+		"final/ref (%) ": -0.96,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 30,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.91,
+		"final/ref (%) ": -0.7725,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 0.78,
+		"final/ref (%) ": -0.87,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 18,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 3.28,
+		"final/ref (%) ": -0.18,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.17,
+		"final/ref (%) ": -0.915,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 2.78,
+		"final/ref (%) ": -0.6525,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 2.08,
+		"final/ref (%) ": -0.6533333333,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.36,
+		"final/ref (%) ": -0.91,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 20,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 7.85,
+		"final/ref (%) ": -0.3458333333,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 3.69,
+		"final/ref (%) ": -0.0775,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 30,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.68,
+		"final/ref (%) ": -0.832,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 46,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 6.66,
+		"final/ref (%) ": -0.445,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 9.79,
+		"final/ref (%) ": 0.6316666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 40,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.83,
+		"final/ref (%) ": -0.0283333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 60,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.48,
+		"final/ref (%) ": -0.76,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 32,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.8,
+		"final/ref (%) ": -0.7666666667,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 38,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 3.15,
+		"final/ref (%) ": -0.475,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 30,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 13.54,
+		"final/ref (%) ": 0.1283333333,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 25,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.36,
+		"final/ref (%) ": -0.464,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 2.93,
+		"final/ref (%) ": -0.5116666667,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 26,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.1,
+		"final/ref (%) ": -0.475,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 36,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 5.07,
+		"final/ref (%) ": -0.5775,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 36,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 3.91,
+		"final/ref (%) ": -0.51125,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 18,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.49,
+		"final/ref (%) ": -0.8758333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 8.74,
+		"final/ref (%) ": -0.126,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 2010
+	},
+	{
+		"final velocity (m/s)": 0.86,
+		"final/ref (%) ": -0.57,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 24,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 10.27,
+		"final/ref (%) ": -0.1441666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 26,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 4.95,
+		"final/ref (%) ": -0.175,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 15,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.8,
+		"final/ref (%) ": -0.8,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.13,
+		"final/ref (%) ": -0.935,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 14,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 3.7,
+		"final/ref (%) ": -0.3833333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 24,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 10.06,
+		"final/ref (%) ": -0.1616666667,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 9.76,
+		"final/ref (%) ": -0.1866666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 30,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.77,
+		"final/ref (%) ": -0.15375,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 6.14,
+		"final/ref (%) ": -0.2325,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 44,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.52,
+		"final/ref (%) ": -0.9133333333,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.74,
+		"final/ref (%) ": -0.5325,
+		"group": "S",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 12.5,
+		"final/ref (%) ": 0.25,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 60,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 12.06,
+		"final/ref (%) ": 0.005,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 32,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.6,
+		"final/ref (%) ": -0.2333333333,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 0.22,
+		"final/ref (%) ": -0.945,
+		"group": "SE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 38,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 8.12,
+		"final/ref (%) ": -0.3233333333,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 1.84,
+		"final/ref (%) ": -0.8466666667,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 48,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.09,
+		"final/ref (%) ": -0.6591666667,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 6.72,
+		"final/ref (%) ": 0.12,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 30,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 2.76,
+		"final/ref (%) ": -0.31,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 48,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.84,
+		"final/ref (%) ": -0.54,
+		"group": "SSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 32,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.05,
+		"final/ref (%) ": -0.7375,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 22,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.4,
+		"final/ref (%) ": -0.8,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 28,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.99,
+		"final/ref (%) ": -0.6683333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.58,
+		"final/ref (%) ": -0.7366666667,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 34,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.86,
+		"final/ref (%) ": -0.69,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 26,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.21,
+		"final/ref (%) ": -0.97375,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 28,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 1.51,
+		"final/ref (%) ": -0.849,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.51,
+		"final/ref (%) ": -0.745,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 40,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.15,
+		"final/ref (%) ": -0.9041666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.61,
+		"final/ref (%) ": 0.305,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 42,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 2.55,
+		"final/ref (%) ": -0.68125,
+		"group": "SE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 12,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.23,
+		"final/ref (%) ": -0.9616666667,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 20,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 4.78,
+		"final/ref (%) ": -0.522,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 15,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 0.48,
+		"final/ref (%) ": -0.952,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 18,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 16.39,
+		"final/ref (%) ": 0.639,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.79,
+		"final/ref (%) ": -0.8025,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 30,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 9.79,
+		"final/ref (%) ": -0.1841666667,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.42,
+		"final/ref (%) ": -0.8225,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 12.98,
+		"final/ref (%) ": 0.0816666667,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 10.44,
+		"final/ref (%) ": 0.044,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 25,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 1.48,
+		"final/ref (%) ": -0.26,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 60,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.71,
+		"final/ref (%) ": -0.8225,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.54,
+		"final/ref (%) ": -0.365,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 46,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 4.82,
+		"final/ref (%) ": -0.518,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 48,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 6.39,
+		"final/ref (%) ": -0.4675,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 24,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 2.66,
+		"final/ref (%) ": 0.33,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 54,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.52,
+		"final/ref (%) ": -0.24,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 15,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 1.42,
+		"final/ref (%) ": -0.7633333333,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.38,
+		"final/ref (%) ": 0.19,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 40,
+		"year": 2004
+	},
+	{
+		"final velocity (m/s)": 1.77,
+		"final/ref (%) ": -0.705,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 20,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 3.15,
+		"final/ref (%) ": -0.7375,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 36,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.58,
+		"final/ref (%) ": -0.542,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 36,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.05,
+		"final/ref (%) ": -0.61875,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 26,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 10.95,
+		"final/ref (%) ": -0.0875,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 0.94,
+		"final/ref (%) ": -0.765,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.72,
+		"final/ref (%) ": -0.57,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 5,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.34,
+		"final/ref (%) ": -0.915,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 0.28,
+		"final/ref (%) ": -0.93,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 34,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.16,
+		"final/ref (%) ": -0.3066666667,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 42,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 4.14,
+		"final/ref (%) ": 0.035,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 26,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.38,
+		"final/ref (%) ": -0.405,
+		"group": "SW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 24,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 3.39,
+		"final/ref (%) ": -0.7175,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 12,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 1.44,
+		"final/ref (%) ": -0.76,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.62,
+		"final/ref (%) ": -0.095,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 44,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 2.51,
+		"final/ref (%) ": -0.7908333333,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 26,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 9.5,
+		"final/ref (%) ": 0.5833333333,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 0,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.37,
+		"final/ref (%) ": -0.815,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 54,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 1.62,
+		"final/ref (%) ": -0.73,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 44,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 1.18,
+		"final/ref (%) ": -0.8525,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 4.78,
+		"final/ref (%) ": -0.4025,
+		"group": "WSW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 0,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 0.05,
+		"final/ref (%) ": -0.9916666667,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.6,
+		"final/ref (%) ": -0.2,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 22,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 4.18,
+		"final/ref (%) ": 0.045,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 60,
+		"year": 2001
+	},
+	{
+		"final velocity (m/s)": 2.66,
+		"final/ref (%) ": -0.335,
+		"group": "WSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 20,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 5.98,
+		"final/ref (%) ": -0.402,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 3.64,
+		"final/ref (%) ": -0.6966666667,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 54,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.77,
+		"final/ref (%) ": -0.723,
+		"group": "SSW",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 60,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 1.55,
+		"final/ref (%) ": -0.7416666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 0.95,
+		"final/ref (%) ": -0.525,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 26,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 3.27,
+		"final/ref (%) ": -0.673,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 26,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 12.19,
+		"final/ref (%) ": 0.219,
+		"group": "SE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 34,
+		"year": 2005
+	},
+	{
+		"final velocity (m/s)": 0.64,
+		"final/ref (%) ": -0.68,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 0,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 2.36,
+		"final/ref (%) ": -0.8033333333,
+		"group": "SW",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 60,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 2.72,
+		"final/ref (%) ": -0.728,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 0,
+		"year": 2015
+	},
+	{
+		"final velocity (m/s)": 3.74,
+		"final/ref (%) ": -0.3766666667,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2007
+	},
+	{
+		"final velocity (m/s)": 5.65,
+		"final/ref (%) ": -0.435,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 20,
+		"year": 2013
+	},
+	{
+		"final velocity (m/s)": 1.45,
+		"final/ref (%) ": -0.7583333333,
+		"group": "SSE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 2.62,
+		"final/ref (%) ": -0.6725,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 8,
+		"street width (m)": 34,
+		"year": 2000
+	},
+	{
+		"final velocity (m/s)": 4.7,
+		"final/ref (%) ": -0.2166666667,
+		"group": "WSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 22,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 3.7,
+		"final/ref (%) ": -0.075,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 0,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 2.94,
+		"final/ref (%) ": -0.51,
+		"group": "SW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 32,
+		"year": 2002
+	},
+	{
+		"final velocity (m/s)": 0.04,
+		"final/ref (%) ": -0.98,
+		"group": "S",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 2,
+		"street width (m)": 18,
+		"year": 2016
+	},
+	{
+		"final velocity (m/s)": 5.29,
+		"final/ref (%) ": -0.471,
+		"group": "SSE",
+		"mesh resolution (m)": 2,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 40,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.2,
+		"final/ref (%) ": -0.1333333333,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 34,
+		"year": 2008
+	},
+	{
+		"final velocity (m/s)": 2.29,
+		"final/ref (%) ": -0.6183333333,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 18,
+		"year": 2009
+	},
+	{
+		"final velocity (m/s)": 1.93,
+		"final/ref (%) ": -0.8391666667,
+		"group": "ESE",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 28,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 0.7,
+		"final/ref (%) ": -0.825,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 54,
+		"year": 2003
+	},
+	{
+		"final velocity (m/s)": 5.48,
+		"final/ref (%) ": -0.452,
+		"group": "SSW",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 10,
+		"street width (m)": 18,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 1.24,
+		"final/ref (%) ": -0.69,
+		"group": "SSE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 4,
+		"street width (m)": 20,
+		"year": 1999
+	},
+	{
+		"final velocity (m/s)": 5.97,
+		"final/ref (%) ": -0.005,
+		"group": "S",
+		"mesh resolution (m)": 9,
+		"reference speed (m/s) ": 6,
+		"street width (m)": 28,
+		"year": 2014
+	},
+	{
+		"final velocity (m/s)": 9.57,
+		"final/ref (%) ": -0.2025,
+		"group": "ESE",
+		"mesh resolution (m)": 5,
+		"reference speed (m/s) ": 12,
+		"street width (m)": 0,
+		"year": 2000
+	}
+]
